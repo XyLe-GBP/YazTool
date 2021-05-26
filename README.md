@@ -21,13 +21,13 @@ Supports decompression and compression of Nintendo archive files.
 This tool uses this arguments:
   `YazTool <OPTIONS> <FILE-PATH>`
   
-The <OPTIONS> argument must be one of the following.
+The `<OPTIONS>` argument must be one of the following.
   
 `0: Decompress`
   
 `1: Compress`
   
-The <FILE-PATH> argument is the full path of the file to be compressed and decompressed.
+The `<FILE-PATH>` argument is the full path of the file to be compressed and decompressed.
   
 * Supported decompress formats:
   
