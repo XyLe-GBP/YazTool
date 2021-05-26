@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yaztool", "yaztool.vcxproj", "{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Debug|x64.ActiveCfg = Debug|x64
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Debug|x64.Build.0 = Debug|x64
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Debug|x86.Build.0 = Debug|Win32
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Release|x64.ActiveCfg = Release|x64
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Release|x64.Build.0 = Release|x64
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Release|x86.ActiveCfg = Release|Win32
+		{F0BF5F39-5CE5-4EC2-B88A-0C7E631A61EC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C37605-A6EC-431D-B4D4-4583FAB4C4A8}
+	EndGlobalSection
+EndGlobal
