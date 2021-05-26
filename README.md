@@ -18,7 +18,8 @@ You will need to build your application from the cpp source files.
 
 Supports decompression and compression of Nintendo archive files.
 
-This tool uses this format: YazTool <OPTIONS> <FILE-PATH>
+This tool uses this arguments:
+  `YazTool <OPTIONS> <FILE-PATH>`
   
 The <OPTIONS> argument must be one of the following.
   
