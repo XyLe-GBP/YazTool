@@ -19,6 +19,7 @@ You will need to build your application from the cpp source files.
 Supports decompression and compression of Nintendo archive files.
 
 This tool uses this arguments:
+
   `YazTool <OPTIONS> <FILE-PATH>`
   
 The `<OPTIONS>` argument must be one of the following.
@@ -28,6 +29,12 @@ The `<OPTIONS>` argument must be one of the following.
 `1: Compress`
   
 The `<FILE-PATH>` argument is the full path of the file to be compressed and decompressed.
+
+Example usage:
+
+`YazTool 0 D:\DebugDirectory\YazTool\decompress.szs` (Decompress SZS Binary File)
+
+`YazTool 1 D:\DebugDirectory\YazTool\recompress.narc` (Recompress NARC Binary File)
   
 * Supported decompress formats:
   
